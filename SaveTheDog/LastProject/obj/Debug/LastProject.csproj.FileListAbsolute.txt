@@ -1,0 +1,120 @@
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\obj\Debug\LastProject.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\obj\Debug\LastProject.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\LastProject.exe.config
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\LastProject.exe
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\LastProject.pdb
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\aiv-audio.dll
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\aiv-fast2d.dll
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\NVorbis.dll
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\OpenTK.dll
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\System.ValueTuple.dll
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\NVorbis.xml
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\OpenTK.pdb
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\OpenTK.xml
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\System.ValueTuple.xml
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\obj\Debug\LastProject.csproj.CopyComplete
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\obj\Debug\LastProject.exe
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\obj\Debug\LastProject.pdb
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\backhand.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\titleScreen.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Sounds\Menu.wav
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\MenuCursor01.wav
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\tileset.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\PlayerSheet\WalkDown.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\PlayerSheet\WalkRight.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\PlayerSheet\WalkUp.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\PlayerSheet\WalkLeft.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\ICOs\boots_ico.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\ICOs\key_ico.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\ICOs\pickaxe_ico.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\textSheet.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\weapons_GUI_frame.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\weapon_GUI_selection.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\Dialogues\DialogueBar.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\Dialogues\DialogueBarName.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Sounds\Overworld.wav
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\DialogueSFX.wav
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Config\MainSceneMap.tmx
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Config\PlayerHouseSceneMap.tmx
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\Objects\book.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\Objects\pot.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Config\PrincessHouseSceneMap.tmx
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\Objects\platform.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Sounds\Underworld.wav
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\Objects\heart.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Config\UndergroundSceneMap.tmx
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\gameOverScreen.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\PlayerSheet\Death.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Config\DogHouseSceneMap.tmx
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\winScreen.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\PrincessSheet\PrincessIdleDown.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\PrincessSheet\PrincessIdleLeft.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\PrincessSheet\PrincessIdleUp.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\PrincessSheet\PrincessIdleRight.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\DogSheet\DogIdleDown.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\DogSheet\DogIdleRight.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\DogSheet\DogIdleUp.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Graphics\DogSheet\DogIdleLeft.png
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\OpenDoor.wav
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\PickupSFX.wav
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\PlatformActivated.wav
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\Hurt.wav
+C:\Users\solan\Desktop\AIV\Anno 1\CONSEGNE\Progetto Finale\LastProject\LastProject\obj\Debug\LastProject.csproj.SuggestedBindingRedirects.cache
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\backhand.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\Dialogues\DialogueBar.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\Dialogues\DialogueBarName.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\DogSheet\DogIdleDown.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\DogSheet\DogIdleRight.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\DogSheet\DogIdleUp.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\DogSheet\DogIdleLeft.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\gameOverScreen.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\ICOs\boots_ico.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\ICOs\key_ico.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\ICOs\pickaxe_ico.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\Objects\book.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\Objects\heart.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\Objects\platform.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\Objects\pot.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\PlayerSheet\Death.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\PlayerSheet\WalkDown.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\PlayerSheet\WalkLeft.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\PlayerSheet\WalkRight.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\PlayerSheet\WalkUp.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\PrincessSheet\PrincessIdleDown.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\PrincessSheet\PrincessIdleLeft.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\PrincessSheet\PrincessIdleUp.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\PrincessSheet\PrincessIdleRight.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\textSheet.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\tileset.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\titleScreen.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\weapons_GUI_frame.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\weapon_GUI_selection.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Graphics\winScreen.png
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\Hurt.wav
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\PickupSFX.wav
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\PlatformActivated.wav
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\OpenDoor.wav
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Sounds\Underworld.wav
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Sounds\Overworld.wav
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Sounds\Menu.wav
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\DialogueSFX.wav
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Sounds\Sfx\MenuCursor01.wav
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Config\MainSceneMap.tmx
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Config\DogHouseSceneMap.tmx
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Config\PlayerHouseSceneMap.tmx
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Config\UndergroundSceneMap.tmx
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\Assets\Config\PrincessHouseSceneMap.tmx
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\aiv-audio.dll
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\aiv-fast2d.dll
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\NVorbis.dll
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\OpenTK.dll
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\System.ValueTuple.dll
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\NVorbis.xml
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\OpenTK.pdb
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\OpenTK.xml
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\bin\Debug\System.ValueTuple.xml
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\obj\Debug\LastProject.csproj.AssemblyReference.cache
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\obj\Debug\LastProject.csproj.CoreCompileInputs.cache
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\obj\Debug\LastProj.73BCD445.Up2Date
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\obj\Debug\LastProject.exe
+D:\Work\Portfolio\AIV - First Year\Save The Dog!\LastProject\LastProject\obj\Debug\LastProject.pdb
