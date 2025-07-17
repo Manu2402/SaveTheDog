@@ -165,6 +165,9 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="OpenAL32.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <None Include="Assets\Config\PrincessHouseSceneMap.tmx">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

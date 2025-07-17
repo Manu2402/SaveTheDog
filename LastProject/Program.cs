@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LastProject
 {
-    // Dependencies: OPENAL32.
+    // Dependencies: OpenAL32.
 
     class Program
     {
